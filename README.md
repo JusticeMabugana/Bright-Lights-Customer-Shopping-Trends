@@ -22,6 +22,9 @@ This dataset is a valuable resource for organisations seeking to strengthen thei
 
 - We sold more items in January (723) and generated the highest revenue in January (R 43K).
 
+- Below is a snippet from the PowerBi dashboard
+  [!Visuals]()
+
 ## Tools used
 
 - PowerBi (visualization)
