@@ -23,7 +23,7 @@ This dataset is a valuable resource for organisations seeking to strengthen thei
 - We sold more items in January (723) and generated the highest revenue in January (R 43K).
 
 - Below is a snippet from the PowerBi dashboard
-  [!Visuals]()
+  ![Visuals](https://github.com/JusticeMabugana/Bright-Lights-Customer-Shopping-Trends/blob/main/3.Data%20Processing/customer%20shopping%20trends%20-%20marketing%20focus.png)
 
 ## Tools used
 
